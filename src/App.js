@@ -67,6 +67,7 @@ function App() {
           borderRadius: '50%',
           transform: `scale(${scale})`, 
           boxShadow: '0 0 10px 5px rgba(0, 0, 0, 0.4)',
+          cursor: 'grab',
         }}
         onMouseDown={handleMouseDown}
         onWheel={handleWheel}

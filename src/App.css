@@ -1,20 +1,7 @@
-.container {
-  cursor: grab;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100vw;
-  height: 100vh;
-}
-
 .App {
   width: 100vw;
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.container svg {
-  background-color: transparent; /* Черный фон для контраста */
 }
