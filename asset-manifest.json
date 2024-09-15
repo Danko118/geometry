@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geometry/static/css/main.07304484.css",
+    "main.js": "/geometry/static/js/main.fc098263.js",
+    "index.html": "/geometry/index.html",
+    "main.07304484.css.map": "/geometry/static/css/main.07304484.css.map",
+    "main.fc098263.js.map": "/geometry/static/js/main.fc098263.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07304484.css",
+    "static/js/main.fc098263.js"
+  ]
+}
